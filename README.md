@@ -33,11 +33,7 @@ Which cities contribute the most orders
 Microsoft Excel
 Used for data cleaning, removing inconsistencies, formatting columns, and preparing the data for analysis.
 
-MySQL
-Used to perform queries, aggregations, and calculations such as total revenue, monthly sales, and top products.
-
-Power BI
-Used to build an interactive dashboard with KPIs, charts, slicers, and visuals that clearly present insights.
+<img width="1863" height="732" alt="Image" src="https://github.com/user-attachments/assets/e50b81af-b12e-4082-8066-ed67216ecb00" />
 
 GitHub
 Used to document the project and showcase analytical skills in a professional portfolio.
